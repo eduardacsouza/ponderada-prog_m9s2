@@ -15,10 +15,9 @@
 **Monitoramento**: Se a taxa de resposta cair abaixo de 30%, um alerta deve ser gerado para realização de medidas que incentivem a participação das pesquisas.
 # 2. Estratégia e massa de testes
 &emsp; Os arquivos correspondentes as estratégias e massas de testes se encontram em: 
+[Estratégia e Massa de Testes](https://github.com/eduardacsouza/ponderada-prog_m9s2/tree/main/Estratégia%20e%20massa%20de%20testes)
 
-[DN4 - Detecção de Contas Duplicadas e Fraudes](Estratégia e massa de testes/dn4-detecção-contas-duplicadas-fraudes.feature)
 
-[DN5 - Experiência do Entregador e Feedback Estruturado](Estratégia e massa de testes/dn5-experiencia-entregador-feedback-estruturado.feature)
 
 
 
