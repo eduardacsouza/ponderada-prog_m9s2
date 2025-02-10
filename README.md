@@ -13,9 +13,15 @@
 **Métrica**: Respostas aos formulários devem ser coletadas automaticamente e analisadas com base em tendências de churn e insatisfação.
 
 **Monitoramento**: Se a taxa de resposta cair abaixo de 30%, um alerta deve ser gerado para realização de medidas que incentivem a participação das pesquisas.
+
 # 2. Estratégia e massa de testes
 &emsp; Os arquivos correspondentes as estratégias e massas de testes se encontram em: 
 [Estratégia e Massa de Testes](https://github.com/eduardacsouza/ponderada-prog_m9s2/tree/main/Estratégia%20e%20massa%20de%20testes)
+
+# 3.Codificação como documentação de testes
+&emsp; O arquivo correspondente a codificação como documentação de testes se encontra em:
+[Codificação como documentação de testes](https://github.com/eduardacsouza/ponderada-prog_m9s2/blob/main/main_test.go)
+
 
 
 
